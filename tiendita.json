@@ -1,0 +1,56 @@
+{
+  "cliente": {
+    "id1": {
+      "apellido": "ac",
+      "celular": "9142 9143",
+      "correo": "abner@gmail.com",
+      "direccion": "coban",
+      "nombre": "abner"
+    },
+    "id2": {
+      "apellidos": "zambrano",
+      "celular": "6996 2112",
+      "correo": "david@gmail.com",
+      "direccion": "chamelco",
+      "nombre": "david"
+    },
+    "id3": {
+      "apellidos": "ac",
+      "celular": "6464 3434",
+      "correo": "heder@gmail.com",
+      "direccion": "coban",
+      "nombre": "heder"
+    }
+  },
+  "cliente-evento": {
+    "idce1": {
+      "idcliente": "id1",
+      "idevento": "idevento1"
+    },
+    "idce2": {
+      "idcliente": "id2",
+      "idevento": "idevento2"
+    },
+    "idce3": {
+      "idcliente": "id3",
+      "idevento": "idevento3"
+    }
+  },
+  "evento": {
+    "idevento1": {
+      "descripcion": "fiesta de cumpleaños",
+      "nombre": "cumpleaños",
+      "precio": "Q300"
+    },
+    "idevento2": {
+      "descripcion": "una boda",
+      "nombre": "boda",
+      "precio": "Q600"
+    },
+    "idevento3": {
+      "descripcion": "una fiesta",
+      "nombre": "fiesta",
+      "precio": "Q400"
+    }
+  }
+}
