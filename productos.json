@@ -1,0 +1,54 @@
+{
+  "clientes": {
+    "campos": {
+      "correo": "abner@gmail.com",
+      "direccion": "coban",
+      "idc": 1,
+      "nombre": "abner",
+      "telefono": "1919 9191"
+    }
+  },
+  "detallesOrden": {
+    "campos": {
+      "cantidad": 10,
+      "idd": 1,
+      "ido": 1,
+      "idp": 1,
+      "precioUnitario": "Q100"
+    }
+  },
+  "facturas": {
+    "campos": {
+      "fecha": "06/06/2023",
+      "idf": 1,
+      "ido": 1,
+      "total": 3
+    }
+  },
+  "ordenes": {
+    "campos": {
+      "fecha": "06/06/2023",
+      "idc": 1,
+      "ido": 1,
+      "total": 3
+    }
+  },
+  "productos": {
+    "campos": {
+      "descripcion": "un arbol",
+      "idp": 1,
+      "nombre": "arbol",
+      "precio": "Q100",
+      "stock": 40
+    }
+  },
+  "proveedores": {
+    "campos": {
+      "correoempresa": "david@gmail.com",
+      "direccion": "chamelco",
+      "idpro": 1,
+      "nombre": "david",
+      "telefono": 12123434
+    }
+  }
+}
